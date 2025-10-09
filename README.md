@@ -18,7 +18,7 @@ Create a simple table using ```<table>``` tag in html.
 Add header row using ```<th>``` tag.
 
 ### STEP 5:
-Add your ti:metable using ```<td>``` tag.
+Add your timetable using ```<td>``` tag.
 
 ### STEP 6:
 Execute the program using runserver command.
